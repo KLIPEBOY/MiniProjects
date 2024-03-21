@@ -8,8 +8,8 @@
 - [Telegram Bots](./Telegrambots)
   - [Genbot](./Telegrambots/genbot/)
     - [Src Genbot](./Telegrambots/genbot/main.py)
-    - [Readme ru Genbot](.Telegrambots/readme/Genbotru.md)
-    - [Readme en Genbot](.Telegrambots/readme/Genboten.md)
+    - [Readme ru Genbot](./Telegrambots/readme/Genbotru.md)
+    - [Readme en Genbot](./Telegrambots/readme/Genboten.md)
 
 Если у вас есть какие-либо вопросы, предложения или замечания, не стесняйтесь связаться с **KLIPEBOY**.
 
