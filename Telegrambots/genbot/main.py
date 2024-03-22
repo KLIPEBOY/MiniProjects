@@ -3,7 +3,7 @@ import random
 import string
 from telebot import types
 
-bot_token = "6021489392:AAHuIkeoN11d_wVMgUC9Vs7OUCn5iNi8dlE"
+bot_token = "Token_bot"
 bot = telebot.TeleBot(bot_token)
 
 @bot.message_handler(commands=['start'])
